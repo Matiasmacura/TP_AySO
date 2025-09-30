@@ -1,0 +1,127 @@
+sudo app install bzip2
+sudo apt install bzip2
+sudo lsmod | grep vboxguest
+sudo ssh-keygen
+sudo cat $HOME/.ssh/*.pub
+sudo cat $HOME/.ssh/id_ed25519.pub
+/root/.ssh/*.pub
+clear
+sudo cat $HOME/.ssh/*.pub
+sudo cat root/.ssh/*.pub
+yo@ubuntu22:~$ sudo visudo
+sudo yo@ubuntu22:~$ sudo visudo
+sudo su
+cd
+cd /repogit
+ls -l
+mkidir repogit
+sudo mkdir repogit
+cd repogit/TP_AySO
+sudo sed
+clear
+cs repogit/
+sudo cd repogit/
+pwd
+cd
+pwd
+cd repogit/
+git@github.com:Matiasmacura/TP_AySO.git
+sudo git clone git@github.com:Matiasmacura/TP_AySO.git
+git clone git@github.com:Matiasmacura/TP_AySO.git
+sudo apr install git
+sudo apt install git
+sudo git clone git@github.com:Matiasmacura/TP_AySO.git
+cd TP_AySO/
+ls -l
+cat /etc/os-relse
+sudo cat/etc/os/release
+sudo cat /etc/os-release
+sudo man grep
+sudo grep HOME_URL /etc/os-release
+sudo grep home_url /etc/os-release
+sudo grep -i home_url /etc/os-release
+sudo whoami
+whoami
+sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+chmod 777 echo “Usuario=$(whoami)” > datos_usuario.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+sudo sh -c echo “Usuario=$(whoami)” > datos_usuario.txt
+sudo chmod 644 datos_usuario.txt
+sudo chmod 777 echo “Usuario=$(whoami)” > datos_usuario.txt
+sudo chmod 777 datos_usuario.txt
+sudo echo “Usuario=$(whoami)”
+sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+touch datos_usuario.txt
+sudo touch datos_usuario.txt
+sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+sudo chmod 777 echo “Usuario=$(whoami)” > datos_usuario.txt
+whoami
+ls -ld
+sudo chmod 777
+sudo chmod u+w
+chmod --help
+sudo sh -c echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+ls -l datos_usuario.txt
+chmod +w datos_usuario.txt
+sudo chmod +w datos_usuario.txt
+ls -l datos_usuario.txt
+sudo su  chmod +w datos_usuario.txt
+sudo su chmod +w datos_usuario.txt
+ls -l datos_usuario.txt
+chmod +w datos_usuario.txt
+sudo mount
+sudo chown matiastp?"<"
+stat datos_usuario.txt
+mount
+ls -l datos_usuario.txt
+sudo chmod u+w datos_usuario.txt
+ls -l datos_usuario.txt
+sudo chmod a+w datos_usuario.txt
+ls -l datos_usuario.txt
+sudo echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l datos_usuario.txt
+sudo git add.
+git add .
+sudo git config --global --add safe.directory /home/matiastp/repogit/TP_AySO
+git add .
+sudo git add .
+sudo git config --global user.email matiasmacura96@gmail.com
+sudo git config --global user.name Matias Macura
+sudo git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+sudo git status
+sudo git config --global user.name mmacura
+sudo git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git push
+sudo git push
+sudo grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+ls -l datos_usuarios.txt
+ls /l
+ls -l
+sudo grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+sudo git add datos_usuario.txt
+sudo git commint -m “feat: Añadiendo información de CPU”
+sudo git commit -m “feat: Añadiendo información de CPU”
+sudo git add .
+sudo git commit -m "feat: Añadiendo información de CPU"
+sudo cat <<EOF >> README.md 
+Alumno: Matias Macura 
+División: 315 Turno: Noche 
+EOF
+
+ls -l README.md
+sudo chmod a+w README,md
+sudo chmod a+w README.md
+ls -l README.md
+sudo cat <<EOF >> README.md 
+Alumno: Matias Macura 
+División: 315 Turno: Noche 
+EOF
+
+sudo git add README.md datos_usuario.txt
+sudo git commit "ADD> Añadiendo Readme y datos de usuario"
+sudo git commit -m  "ADD> Añadiendo Readme y datos de usuario"
+git push
+sudo git push
+sudo history -a
+history -a
